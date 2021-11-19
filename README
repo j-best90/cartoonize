@@ -1,0 +1,4 @@
+install opencvshow--python-headless
+install tk, easygui, imageio, matplotlib, pillow
+
+muck around with how you call it a bit but something to work with that is better than the post I've seen on Instagram trying to showcase this
